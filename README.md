@@ -1,1 +1,3 @@
-# Back-Auth-Jwt
+# Back-End-Jwt-Asp.Net
+<h3>Application de la gestion de l'authentification et de la sécurité des utilisateurs avec JWT</h3>
+Notre application backend, conçue avec ASP.NET Core, se focalise sur la gestion de l'authentification et la sécurité des utilisateurs. Elle intègre ASP.NET Core pour les APIs, Entity Framework Core pour la gestion des bases de données, ASP.NET Core Identity pour l'authentification, et SQL Server pour le stockage des données. En plus, nous utilisons JWT (JSON Web Tokens) pour sécuriser et maintenir les sessions utilisateurs, ce qui renforce la sécurité en permettant une validation efficace et sécurisée des sessions et des requêtes. Ces éléments ensemble garantissent que notre plateforme est à la fois sécurisée et performante pour la gestion de l'authentification.
